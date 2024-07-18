@@ -15,6 +15,6 @@ using namespace std;
           
       }
       for(int i=0; i<n; i++){
-            cout<<num/arr[i]<<" , ";
+            cout<<num/arr[i]<<" ,:";
       }
  }
